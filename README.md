@@ -1,8 +1,6 @@
 ## Spawned by daemons
 
-You can use the [editor on GitHub](https://github.com/dev-null321/dev-null321.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Recently I've become very interested in operating systems and understanding how to create one. This curiosity has led me to read as much as I can on the subject. I've had to learn C, and currently I'm learning assembly. This will be very in depht and I'll have to learn along the way. If this is making you anxious, don't worry you can read through this before starting. Here's to hoping this is as fun as I told myself it will be. Happy hacking. 
 
 ### Markdown
 
